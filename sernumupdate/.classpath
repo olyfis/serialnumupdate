@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/olyutil.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/project_jars_BuildPath/olyutil.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/project_jars_BuildPath/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/project_jars_BuildPath/javax.servlet.jsp-2.2.0.v201112011158.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/project_jars_BuildPath/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/project_jars_BuildPath/apache-commons.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/project_jars_BuildPath/httpcore-4.4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/project_jars_BuildPath/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/project_jars_BuildPath/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/project_jars_BuildPath/unijdbc.jar"/>
+	<classpathentry kind="lib" path="C:/Java_Dev/lib/project_jars_BuildPath/asjava.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
